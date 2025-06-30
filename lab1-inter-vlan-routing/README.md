@@ -15,7 +15,7 @@ Demonstrate inter-VLAN communication between HR and Sales departments using a si
 - Router: Sub-interfaces for VLANs, gateway IPs
 
 ## 📂 Files
-- `lab1-inter-vlan.pkt` - Cisco Packet Tracer file
+- `Lab 1 Inter-VLAN Routing using Router-on-a-Stick.pkt` - Cisco Packet Tracer file
 
 ## ✅ What I Learned
 - VLANs, router-on-a-stick setup
