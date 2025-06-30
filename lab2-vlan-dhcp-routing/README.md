@@ -17,7 +17,7 @@ Configure dynamic IP addressing with VLANs and inter-VLAN communication using a 
 - DHCP server pools
 
 ## 📂 Files
-- `lab2-vlan-dhcp.pkt` - Cisco Packet Tracer file
+- `Lab 2 VLANs + DHCP Server with Inter-VLAN Routing.pkt` - Cisco Packet Tracer file
 
 ## ✅ What I Learned
 - DHCP concepts and relay setup
